@@ -1,7 +1,7 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
+    "itemGrants": ["AthenaCharacter:Pickaxe_ID_179_StarWandPickaxe_ID_179_StarWand"],
     "price": 1500
   },
   "daily2": {
